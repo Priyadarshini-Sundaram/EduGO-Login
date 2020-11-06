@@ -1,0 +1,41 @@
+
+body {
+  background-color:#ff1e56;
+  color:#000;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.display-3{
+color:#ff1e56;
+font-family: monospace;
+font-weight: bold;
+font-style: normal;
+}
+.jumbotron centered{
+  background-color: #00bcd4;
+}
+
+.fa{
+  color:#00bcd4;
+  border-radius: 0;
+}
+
+#foot{
+  color:#fff;
+  font-family: serif;
+  font-size: 30px;
+  font-weight: bolder;
+  text-align: center;
+
+}
